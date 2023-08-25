@@ -10,3 +10,22 @@ print(m2)
 print("3 × 3 matrix with labels, filled by columns: ")
 m3 = matrix(cells, nrow=3, ncol=3, byrow=FALSE, dimnames=list(rnames, cnames))
 print(m3)
+
+output:-
+[1] "5 × 4 matrix:"
+     [,1] [,2] [,3] [,4]
+[1,]    1    6   11   16
+[2,]    2    7   12   17
+[3,]    3    8   13   18
+[4,]    4    9   14   19
+[5,]    5   10   15   20
+[1] "3 × 3 matrix with labels, filled by rows: "
+     Col1 Col2 Col3
+Row1    1    3    5
+Row2    7    8    9
+Row3   11   12   14
+[1] "3 × 3 matrix with labels, filled by columns: "
+     Col1 Col2 Col3
+Row1    1    7   11
+Row2    3    8   12
+Row3    5    9   14
