@@ -6,3 +6,7 @@ min_value <- min(my_vector)
 
 cat("Maximum value:", max_value, "\n")
 cat("Minimum value:", min_value, "\n")
+
+output:-
+Maximum value: 22 
+Minimum value: 3 
