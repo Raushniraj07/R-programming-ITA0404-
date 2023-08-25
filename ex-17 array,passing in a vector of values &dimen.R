@@ -8,3 +8,20 @@ a =  array(
   )
 )
 print(a)
+
+output:-
+ , Part1
+
+     Row1 Row2 Row3
+Col1    6   10   14
+Col2    7   11   15
+Col3    8   12   16
+Col4    9   13   17
+
+, , Part2
+
+     Row1 Row2 Row3
+Col1   18   22   26
+Col2   19   23   27
+Col3   20   24   28
+Col4   21   25   29
