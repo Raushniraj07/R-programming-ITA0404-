@@ -6,3 +6,20 @@ l = list(
 )
 print("Content of the list:")
 print(l)
+
+output:-
+"Content of the list:"
+[[1]]
+[1]  1  2  2  5  7 12
+
+[[2]]
+ [1] "Jan" "Feb" "Mar" "Apr" "May" "Jun" "Jul" "Aug"
+ [9] "Sep" "Oct" "Nov" "Dec"
+
+[[3]]
+     [,1] [,2]
+[1,]    3    1
+[2,]   -8   -3
+
+[[4]]
+function (x)  .Primitive("asin")
